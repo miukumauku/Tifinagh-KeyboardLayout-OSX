@@ -8,12 +8,14 @@ Tifinagh keyboad layout for MacOS X
 
 # Layout
 [Normal]
+
 ` 1 2 3 4 5 6 7 8 9 0 - =
    ⵇ ⵡ ⴻ ⵔ ⵜ ⵢ ⵓ ⵉ ⵖ ⵒ [ ] \
     ⴰ ⵙ ⴷ ⴼ ⴳ ⵀ ⵊ ⴽ ⵍ ; '
      ⵣ ⵅ ⵛ ⵠ ⴱ ⵏ ⵎ , . /
 
-[Shift]
+[Shift
+
 ~ ! @ # $ % ^ & * ( ) _ +
    ⵈ ⵯ ⵦ ⵕ ⵟ ⵢ ⵓ ⵉ ⵄ ⵒ { } |
     ⴰ ⵚ ⴹ ⴼ ⴶ ⵃ ⵌ ⴾ ⵍ : "
