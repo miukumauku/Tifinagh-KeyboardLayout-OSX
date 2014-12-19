@@ -31,4 +31,3 @@ Tifinagh keyboad layout for MacOS X
         [ ][ ][ⴺ][ ][ⴵ][ⵁ][ⵋ][ⴿ][ ][ ][ ]
          [ⵤ][ⵂ][ ][ ][ ][ ][ ][ ][ ][ ]
                    
-
