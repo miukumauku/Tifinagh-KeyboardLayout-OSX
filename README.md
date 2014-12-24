@@ -8,30 +8,17 @@ Tifinagh keyboad layout for MacOS X
 
 # Layout
 [Normal]
+![Normal](./images/Tifinagh_keyboardLayout_Normal.png)
    
-   [`][1][2][3][4][5][6][7][8][9][0][-][=]
-       [ⵇ][ⵡ][ⴻ][ⵔ][ⵜ][ⵢ][ⵓ][ⵉ][ⵖ][ⵒ][[][]][\]
-        [ⴰ][ⵙ][ⴷ][ⴼ][ⴳ][ⵀ][ⵊ][ⴽ][ⵍ][;][']
-         [ⵣ][ⵅ][ⵛ][ⵠ][ⴱ][ⵏ][ⵎ][,][.][/]
-
 [Shift]
+![Shift](./images/Tifinagh_keyboardLayout_Shift.png)
    
-   [~][!][@][#][$][%][^][&][*][(][)][_][+]
-      [ⵈ][ⵯ][ⵦ][ⵕ][ⵟ][ⵢ][ⵓ][ⵉ][ⵄ][ⵒ][{][}][|]
-       [ⴰ][ⵚ][ⴹ][ⴼ][ⴶ][ⵃ][ⵌ][ⴾ][ⵍ][:]["]
-        [ⵥ][ⵆ][ⵞ][ⵠ][ⴱ][ⵐ][ⵎ][<][>][?]
-
 [Option]
+![Option](./images/Tifinagh_keyboardLayout_Option.png)
    
-   [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
-       [ ][ ][ ][ ][ⵝ][ ][ ][ ][ⵧ][ ][ ][ ]
-        [ ][ ][ⴸ][ ][ⴴ][ⵁ][ⵋ][ⴿ][ ][ ][ ]
-         [ⵤ][ ][ ][ ][ⴲ][ⵑ][ ][ ][ ][ ]
-
 [Option Shift]
+![Option Shift](./images/Tifinagh_keyboardLayout_Option_Shift.png)
    
-   [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
-       [ ][ ][ ][ ][ ][ ][ ][ ][ⵘ][ ][ ][ ]
-        [ ][ ][ⴺ][ ][ⴵ][ⵁ][ⵋ][ⴿ][ ][ ][ ]
-         [ⵤ][ⵂ][ ][ ][ ][ ][ ][ ][ ][ ]
-                   
+[US Keyboard]
+![US Keyboard](./images/US_keyboardLayout.png)
+
