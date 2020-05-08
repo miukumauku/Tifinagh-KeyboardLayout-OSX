@@ -88,6 +88,7 @@
             <key code="46" output="ⵎ"/>
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="50" output="`"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -176,6 +177,7 @@
             <key code="46" output="ⵎ"/>
             <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="50" output="~"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -229,6 +231,7 @@
             <key code="40" output="ⴿ"/>
             <key code="45" output="ⵑ"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -271,6 +274,7 @@
             <key code="0" output=""/>
             <key code="36" output="&#x000D;"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -317,6 +321,7 @@
             <key code="31" output="ⵘ"/>
             <key code="36" output="&#x000D;"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -384,6 +389,7 @@
             <key code="45" output="n"/>
             <key code="46" output="m"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -451,6 +457,7 @@
             <key code="45" output="N"/>
             <key code="46" output="M"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
